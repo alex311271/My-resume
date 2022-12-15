@@ -17,7 +17,7 @@ WhatsApp: [@Aleksey](https://wa.me/79219427079)
 * Составление чек-листов, тест-кейсов, тестовых сценариев, анализ документации
 * Проведение исследовательского, black-box, white-box тестирования
 * Языки программирования: Java
-* Фреймворки: HTML CSS, JUnit, Collctions, Jacoco, Maven
+* Фреймворки: HTML CSS, JUnit, Collections, Jacoco, Maven, Gradle, Selenium, Selenid
 * Инструменты тестирования: JMeter, Postman
 * Инструментарий: Git, Intellij Idea, Visual Studio Code, Jira
 
