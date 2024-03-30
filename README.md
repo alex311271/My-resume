@@ -10,16 +10,10 @@ WhatsApp: [@Aleksey](https://wa.me/79219427079)
 
 Портфолио на [GitHub](https://github.com/alex311271)
 
-## Тестировщик ПО (Intern / Junior)
+## Frontend разработчик
 
 ### **Ключевые компетенции**
-
-* Составление чек-листов, тест-кейсов, тестовых сценариев, анализ документации
-* Проведение исследовательского, black-box, white-box тестирования
-* Языки программирования: Java
-* Фреймворки: HTML CSS, JUnit, Collections, Jacoco, Maven, Gradle, Selenium, Selenid
-* Инструменты тестирования: JMeter, Postman
-* Инструментарий: Git, Intellij Idea, Visual Studio Code, Jira
+### **HTML**
 
 ### **Профессиональный опыт**
 
