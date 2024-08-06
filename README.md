@@ -29,10 +29,10 @@ Git GitHub
 *курс "Frontend разработчик" [Программа крса](https://result.school/products/junior-js?utm_source=products&utm_medium=other&utm_campaign=gc&utm_content=menu&utm_term=product&_gl=1*1l24a14*_ga*MTkxNDUxMDI4NS4xNzAyMzk3MzA3*_ga_2697QWD6GC*MTcxMTgxMTQwOC4yNjAuMS4xNzExODEyMzU3LjYwLjEuMTEzMTEwNDE.)*
 
 ### Дипломный проект
-### **WEB приложение для ведения клиентской базы, съемок и финансов для фотографов**
+### *WEB приложение для ведения клиентской базы, съемок и финансов для фотографов*
 Разработать Frontend- и Backend-части приложения. Взаимодействие между ними должно происходить при помощи REST API. Необходима Desktop-версия приложения, адаптивная верстка по желанию. Для стилизации можно использовать любые CSS-решения.
 
-**Более подробно с проектом можно ознакомится [здесь](https://github.com/alex311271/React-Calculator)**
+**Более подробно с проектом можно ознакомится [здесь](https://github.com/alex311271/photograph_crm)**
 
 
 ### “Калькулятор”
